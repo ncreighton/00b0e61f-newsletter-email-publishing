@@ -1,2 +1,25 @@
-# 00b0e61f-newsletter-email-publishing
-What if produce professional output on day one took minutes instead of hours?  Professional formatting tested across different screen sizes and printers. Ready to use immediately — open, fill in your details, done.  ## What's Included  - Newsletter &amp; Email Publishing Proposal And Contract Template — fully configured and ready to use - Fully editabl
+# Newsletter & Email Publishing Proposal and Contract Template Pack
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard layout | Yes | Yes |
+| Premium components | - | Yes |
+| Custom styling | - | Yes |
+| Support included | - | Yes |
+| Regular updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/fZu3cveTtgaU8FGbzScZy2r)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/fZu3cveTtgaU8FGbzScZy2r)
+
